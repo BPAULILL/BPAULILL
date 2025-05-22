@@ -7,7 +7,7 @@
 
 <p align="left">🎓 Graduado em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos (EESC-USP), com formação técnica como Analista de Business Intelligence, estudando a área de programação/tecnologia.
 
-💻 Na área de tecnologia, estou estudando desenvolvimento Front End com HTML, CSS e JavaScript.
+💻 Na área de tecnologia, estudo desenvolvimento Front End com HTML, CSS e JavaScript.
 
 💻 Na área de dados, minhas principais ferramentas são Excel, Power BI, SQL e Python.
 
