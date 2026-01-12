@@ -5,13 +5,11 @@
 
 <img align="right" alt="" height="180px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<p align="left">🎓 Graduado em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos (EESC-USP), com formação técnica como Analista de Business Intelligence, estudando a área de programação/tecnologia.
-
-💻 Na área de tecnologia, estudo desenvolvimento Front End com HTML, CSS e JavaScript.
+<p align="left">🎓 Graduado em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos (EESC-USP), com formação técnica como Analista de Business Intelligence, estudando a área de dados.
 
 💻 Na área de dados, minhas principais ferramentas são Excel, Power BI, SQL e Python.
 
-📊 Interesses: Programação/Tecnologia.
+📊 Interesses: Análise de Dados.
 
 📚 Estou constantemente estudando e me atualizando na área da tecnologia, pois adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!
 
