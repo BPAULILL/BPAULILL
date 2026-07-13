@@ -7,7 +7,7 @@
 
 <p align="left">🎓 Graduado em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos (EESC-USP), em transição para a área de Tecnologia (programação).
 
-💻 Na área de dados, minhas principais ferramentas são HTML e CSS.
+💻 Na área de programação, minhas principais ferramentas são HTML e CSS.
 
 📊 Interesses: Programação FrontEnd e BackEnd.
 
