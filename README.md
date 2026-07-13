@@ -11,7 +11,7 @@
 
 📊 Interesses: Análise de dados e processos.
 
-📚 Estou constantemente estudando e me atualizando na área da tecnologia, pois adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!
+📚 Estou constantemente estudando e me atualizando na área de dados, pois adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!
 
 
 ## Vamos Criar Algo Incrível! 💫
