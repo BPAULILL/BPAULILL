@@ -9,7 +9,7 @@
 
 💻 Na área de dados, minhas principais ferramentas são HTML e CSS.
 
-📊 Interesses: Programação FrontEnd e BackEnd
+📊 Interesses: Programação FrontEnd e BackEnd.
 
 📚 Estou constantemente estudando e me atualizando na área da tecnologia, pois adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!
 
