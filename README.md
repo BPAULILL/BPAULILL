@@ -5,11 +5,11 @@
 
 <img align="right" alt="" height="180px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<p align="left">🎓 Graduado em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos (EESC-USP), com experiência em Análise de Processos e Dados.
+<p align="left">🎓 Graduado em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos (EESC-USP), com experiência em Análise de Processos e Dados, em transição para Desenvolvimento de Sistemas.
 
-💻 Na área de dados, minhas principais ferramentas são Excel, Power BI.
+💻 Na área de Desenvolvimento de Sistemas, minhas principais ferramentas são HTML, CSS.
 
-📊 Interesses: Análise de dados e processos.
+📊 Interesses: Desenvolvimento de Sistemas.
 
 📚 Estou constantemente estudando e me atualizando na área de dados, pois adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!
 
